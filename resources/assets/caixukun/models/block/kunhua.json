@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caixukun:block/kunhua",
+    "particle": "caixukun:block/kunhua"
+  }
+}

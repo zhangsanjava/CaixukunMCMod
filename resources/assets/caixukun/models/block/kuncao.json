@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caixukun:block/lvshicao",
+    "particle": "caixukun:block/lvshicao"
+  }
+}

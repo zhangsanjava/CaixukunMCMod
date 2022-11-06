@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "caixukun:block/zf",
+    "up": "caixukun:block/zf",
+    "north": "caixukun:block/zf",
+    "east": "caixukun:block/zf",
+    "south": "caixukun:block/zf",
+    "west": "caixukun:block/zf",
+    "particle": "caixukun:block/zf"
+  }
+}

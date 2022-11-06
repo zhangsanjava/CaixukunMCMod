@@ -1,0 +1,13 @@
+package yiliaoxiang.cxk.init;
+
+import cxk.cxk.CXK;
+import cxk.cxk.item.Youbin;
+import net.minecraft.item.Item;
+import net.minecraftforge.fml.RegistryObject;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+
+public class CXKRegistries {
+    public static final DeferredRegister<Item> ITEM =DeferredRegister.create(ForgeRegistries.ITEMS, CXK.MODID);
+    public static final RegistryObject<Item> YB =ITEM.register("youbing", Youbin::new);
+}

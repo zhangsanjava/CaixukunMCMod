@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "caixukun:block/lizi",
+    "up": "caixukun:block/lizi",
+    "north": "caixukun:block/lizi",
+    "east": "caixukun:block/lizi",
+    "south": "caixukun:block/lizi",
+    "west": "caixukun:block/lizi",
+    "particle": "caixukun:block/lizi"
+  }
+}

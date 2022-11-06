@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "caixukun:block/kundirt",
+    "up": "caixukun:block/kundirt",
+    "north": "caixukun:block/kundirt",
+    "east": "caixukun:block/kundirt",
+    "south": "caixukun:block/kundirt",
+    "west": "caixukun:block/kundirt",
+    "particle": "caixukun:block/kundirt"
+  }
+}
