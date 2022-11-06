@@ -1,0 +1,107 @@
+{
+  "youbin": {
+    "category": "neutral",
+    "subtitle": "subtitles.youbin",
+    "sounds": [
+      {
+        "name": "caixukun:yb",
+        "stream": true
+      }
+    ]
+  },
+  "lizi": {
+    "category": "neutral",
+    "subtitle": "subtitles.lizi",
+    "sounds": [
+      {
+        "name": "caixukun:lz",
+        "stream": true
+      }
+    ]
+  },
+  "sbsr": {
+    "category": "neutral",
+    "subtitle": "subtitles.sbsr",
+    "sounds": [
+      {
+        "name": "caixukun:sbsr",
+        "stream": true
+      }
+    ]
+  },
+  "daming1": {
+    "category": "neutral",
+    "subtitle": "subtitles.daming1",
+    "sounds": [
+      {
+        "name": "caixukun:daming1",
+        "stream": true
+      }
+    ]
+  },
+  "shoushang1": {
+    "category": "neutral",
+    "subtitle": "subtitles.daming1",
+    "sounds": [
+      {
+        "name": "caixukun:ss1",
+        "stream": true
+      }
+    ]
+  },
+  "lizientitysay": {
+    "category": "neutral",
+    "subtitle": "subtitles.lizientitysay",
+    "sounds": [
+      {
+        "name": "caixukun:lze1",
+        "stream": true
+      },
+      {
+        "name": "caixukun:lze2",
+        "stream": true
+      }
+    ]
+  },
+  "lizientitydead": {
+    "category": "neutral",
+    "subtitle": "subtitles.lizientitydead",
+    "sounds": [
+      {
+        "name": "caixukun:lze3",
+        "stream": true
+      }
+    ]
+  },
+  "ngm": {
+    "category": "neutral",
+    "subtitle": "subtitles.ngm",
+    "sounds": [
+      {
+        "name": "caixukun:ngm",
+        "stream": true
+      }
+    ]
+  },
+  "jinitaimei": {
+    "category": "neutral",
+    "subtitle": "subtitles.jinitaimei",
+    "sounds": [
+      {
+        "name": "caixukun:jntm",
+        "stream": true
+      }
+    ]
+  },
+
+  "xhz": {
+    "category": "neutral",
+    "subtitle": "subtitles.xhz",
+    "sounds": [
+      {
+        "name": "caixukun:xhz",
+        "stream": true
+      }
+    ]
+  }
+}
